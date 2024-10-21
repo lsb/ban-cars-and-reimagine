@@ -1,7 +1,17 @@
 .App {
   text-align: center;
 }
-
+.milliseconds {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  z-index: 420;
+  opacity: 0.25;
+}
+h2 img {
+  width: 40vh;
+  height: 40vh;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
